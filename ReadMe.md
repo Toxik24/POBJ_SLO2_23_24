@@ -49,43 +49,43 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[JAR]()** | **[DBS]()** | **[ADC]()** | **[CFO](DFA)** | **[LGA]()** | **[MPT]()** | **[SPN]()** | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| UML |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| C++ |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| JAVA |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| C# |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  
+| Exercice \ Initial Etudiant | **[JAR](https://github.com/JeremyETMLES)** | **[DBS](https://github.com/damienbignens)** | **[ADC](https://github.com/antoniodocarmoafonso)** | **[CFO](https://github.com/CyrilFeliciano)** | **[DFA](https://github.com/Diogo-FerreiraETML)** | **[LGA]()** | **[MPT](https://github.com/Melissaperret)** | **[SPN](https://github.com/Toxik24)** | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| UML | | | | | | | | | 
+| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| C++ | | | | | | | |
+| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| JAVA | | | | | | | |
+| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| C# | | | | | | | |
+| Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex2 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex3 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex4 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex5 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex6 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| Ex7 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
 ## Exercice 1
 
