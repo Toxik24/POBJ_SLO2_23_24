@@ -30,7 +30,7 @@
 
 | **ligne de Commande**  | **SourceTree**  |
 |:---:|:---:| 
-| ![cmd Git](/doc/cmdGitBasic.PNG) | ![info SourceTree]() | 
+| ![cmd Git](/docGit/cmdGitBasic.PNG) | ![info SourceTree]() | 
   
 	
 
