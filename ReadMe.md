@@ -49,7 +49,7 @@
 ## Suivi des exercices 
 ---
 
-| Exercice \ Initial Etudiant | **[JAR](https://github.com/JeremyETMLES)** | **[DBS](https://github.com/damienbignens)** | **[ADC](https://github.com/antoniodocarmoafonso)** | **[CFO](https://github.com/CyrilFeliciano)** | **[DFA](https://github.com/Diogo-FerreiraETML)** | **[LGA]()** | **[MPT](https://github.com/Melissaperret)** | **[SPN](https://github.com/Toxik24)** | 
+| Exercice \ Initial Etudiant | **[JAR](https://github.com/JeremyETMLES)** | **[DBS](https://github.com/damienbignens)** | **[ADC](https://github.com/antoniodocarmoafonso)** | **[CFO](https://github.com/CyrilFeliciano)** | **[DFA](https://github.com/Diogo-FerreiraETML)** | **[LGA](https://github.com/LuisGarciaAre)** | **[MPT](https://github.com/Melissaperret)** | **[SPN](https://github.com/Toxik24)** | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | UML | | | | | | | | | 
 | Ex1 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
