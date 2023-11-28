@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <iomanip>
 int main()
 {
     char UserAnswer;
@@ -60,7 +60,9 @@ int main()
                 {
                     ValB1 = 100 + (10 * i);
                     ValB2 = ValB1 / 10000.0;
-                    std::cout << "TestB: i= " << i << " ValB1 = " << ValB1 << " ValB2 = " << ValB2 << std::endl;
+                   // std::cout << "TestB: i= " << i << " ValB1 = " << ValB1 << " ValB2 = " << ValB2 << std::endl;
+                    std::cout << "TestB: i= " << i << " ValB1 = " << ValB1 << " ValB2 = " << std::fixed << std::setprecision(6) << ValB2 << std::endl;//a tester
+
                 }
             }
             else
