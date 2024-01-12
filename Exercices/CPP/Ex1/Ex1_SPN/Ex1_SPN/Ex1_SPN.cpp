@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip>
+#include <iomanip> // manipulation du flux de donnée 
 int main()
 {
     char UserAnswer;
